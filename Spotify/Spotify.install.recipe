@@ -14,7 +14,7 @@
     <key>MinimumVersion</key>
     <string>0.4.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.kitzy.download.spotify</string>
+    <string>com.github.kitzy.download.Spotify</string>
     <key>Process</key>
     <array>
         <dict>
