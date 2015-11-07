@@ -17,7 +17,7 @@ __all__ = ["OnePasswordURLProvider"]
 UPDATE_URL_FOUR = "https://app-updates.agilebits.com/check/1/13.0.0/OPM4/en/400600"
 UPDATE_URL_FIVE = "https://app-updates.agilebits.com/check/1/14.0.0/OPM4/en/500000"
 DEFAULT_SOURCE = "Amazon CloudFront"
-DEFAULT_MAJOR_VERSION = "4"
+DEFAULT_MAJOR_VERSION = "5"
 
 
 class OnePasswordURLProvider(Processor):
