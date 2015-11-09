@@ -10,6 +10,7 @@
         <criterion>
             <name>Application Title</name>
             <priority>0</priority>
+            <and_or>and</and_or>
             <search_type>does not have</search_type>
             <value>%JSS_INVENTORY_NAME%</value>
         </criterion>
