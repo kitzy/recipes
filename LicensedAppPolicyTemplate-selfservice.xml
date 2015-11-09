@@ -6,7 +6,6 @@
         <category>
             <name>%POLICY_CATEGORY%</name>
         </category>
-        <trigger_other>selfservice-%PROD_NAME%</trigger_other>
     </general>
     <scope>
         <all_computers>true</all_computers>
