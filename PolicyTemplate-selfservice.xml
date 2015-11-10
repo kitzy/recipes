@@ -13,6 +13,7 @@
         </category>
     </general>
     <scope>
+      <all_computers>true</all_computers>
         <!--Scope added by JSSImporter-->
     </scope>
     <package_configuration>
