@@ -24,6 +24,8 @@
 		<string>Install the latest version of %NAME%.</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>Fusion.png</string>
+		<key>LICENSE_TRIGGER</key>
+		<string>fusion</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2.5</string>
