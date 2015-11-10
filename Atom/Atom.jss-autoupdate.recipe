@@ -5,15 +5,15 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Atom, makes a pkg of it, and uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.kitzy.jss-selfservice.Atom</string>
+	<string>com.github.kitzy.jss-autoupdate.Atom</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
 		<string>Productivity</string>
 		<key>GROUP_NAME</key>
-		<string></string>
+		<string>Atom - Update</string>
 		<key>GROUP_TEMPLATE</key>
-		<string></string>
+		<string>PolicyTemplate-autoupdate.xml</string>
 		<key>NAME</key>
 		<string>Atom</string>
 		<key>POLICY_CATEGORY</key>
