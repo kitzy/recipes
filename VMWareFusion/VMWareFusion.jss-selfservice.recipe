@@ -8,15 +8,22 @@
 	<string>com.github.kitzy.jss.VMwareFusion</string>
 	<key>Input</key>
 	<dict>
-		<key>NAME</key>
-		<string>VMware Fusion</string>
 		<key>CATEGORY</key>
-		<string>%NAME%</string>
-		<key>SMART_GROUP</key>
-		<string>LessThanMostRecent_%NAME%</string>
-		<key>SELFSERVE_POLICY</key>
-		<string>SelfServeLatest_%NAME%</string>
-		<!--<key>ARB_GROUP_NAME</key><string>arbitrary</string>-->
+		<string>Productivity</string>
+		<key>GROUP_NAME</key>
+		<string></string>
+		<key>GROUP_TEMPLATE</key>
+		<string></string>
+		<key>NAME</key>
+		<string>VMWare Fusion</string>
+		<key>POLICY_CATEGORY</key>
+		<string>Productivity</string>
+		<key>POLICY_TEMPLATE</key>
+		<string>LicensedAppPolicyTemplate-selfservice.xml</string>
+		<key>SELF_SERVICE_DESCRIPTION</key>
+		<string>Install the latest version of %NAME%.</string>
+		<key>SELF_SERVICE_ICON</key>
+		<string>Fusion.png</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>0.2.5</string>
