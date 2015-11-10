@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Download recipe for VMware Fusion</string>
 	<key>Identifier</key>
-	<string>com.kitzy.download.VMwareFusion</string>
+	<string>com.github.kitzy.download.VMwareFusion</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
