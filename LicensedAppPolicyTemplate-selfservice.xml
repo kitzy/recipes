@@ -27,12 +27,6 @@
             <display_in>true</display_in>
             <feature_in>false</feature_in>
           </category>
-          <category>
-            <id>1</id>
-            <name>Security</name>
-            <display_in>true</display_in>
-            <feature_in>false</feature_in>
-          </category>
         </self_service_categories>
     </self_service>
     <maintenance>
